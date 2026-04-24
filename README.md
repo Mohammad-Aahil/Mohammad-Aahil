@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mohammad Aahil 👋
 
-<!--
-**Mohammad-Aahil/Mohammad-Aahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building clean, user-friendly web applications using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML
+- CSS (Flexbox, basic layouts)
+- JavaScript (DOM manipulation, events)
+- Git & GitHub
+- LocalStorage
+- Responsive UI basics
+
+---
+
+## 📁 Projects
+
+### ✅ Expense Tracker Web Application
+- Add income and expense transactions
+- Real-time balance calculation
+- Persistent data using localStorage
+- Dynamic delete functionality
+- Deployed using GitHub Pages
+
+🔗 **Live Demo:** https://mohammad-aahil.github.io/Expense-Tracker-Js/  
+💻 **Source Code:** https://github.com/Mohammad-Aahil/Expense-Tracker-Js  
+
+---
+
+## 🎯 Learning Focus
+- Strengthening JavaScript fundamentals
+- Improving CSS layout and styling
+- Building real-world projects
+- Preparing for frontend developer roles
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Mohammad-Aahil
