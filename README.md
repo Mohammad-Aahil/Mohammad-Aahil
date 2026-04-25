@@ -26,6 +26,15 @@ Frontend Developer passionate about building clean, user-friendly web applicatio
 🔗 **Live Demo:** https://mohammad-aahil.github.io/Expense-Tracker-Js/  
 💻 **Source Code:** https://github.com/Mohammad-Aahil/Expense-Tracker-Js  
 
+
+### ✅ To‑Do List Application
+- Task management with add, toggle, and delete features
+- Uses event delegation and state-driven rendering
+- Data persistence with localStorage
+
+🔗 Live Demo: https://mohammad-aahil.github.io/todo-app/  
+💻 Source Code: https://mohammad-aahil.github.io/To-Do-App/
+
 ---
 
 ## 🎯 Learning Focus
