@@ -1,49 +1,142 @@
-# Hi, I'm Mohammad Aahil 👋
+# Hi, I'm Mohammed Aahil 👋
 
-Frontend Developer passionate about building clean, user-friendly web applications using HTML, CSS, and JavaScript.
+### Frontend Developer (React)
+
+Passionate Frontend Developer with hands-on experience building modern web applications using React. I enjoy creating responsive, user-friendly interfaces and solving real-world problems through clean, maintainable code.
+
+Currently focused on React ecosystem technologies including React Router, TanStack Query, Context API, and modern frontend development practices.
 
 ---
 
-## 🔧 Skills
-- HTML
-- CSS (Flexbox, basic layouts)
-- JavaScript (DOM manipulation, events)
-- Git & GitHub
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### React Ecosystem
+- React Router
+- TanStack Query
+- Context API
+- Hooks (useState, useEffect, useContext, useMemo)
+
+### Tools & Technologies
+- Git
+- GitHub
+- Vite
+- REST APIs
 - LocalStorage
-- Responsive UI basics
+
+### Programming Languages
+- JavaScript
+- Python (Basics)
+- Java (Basics)
 
 ---
 
-## 📁 Projects
+## 📁 Featured Projects
 
-### ✅ Expense Tracker Web Application
-- Add income and expense transactions
-- Real-time balance calculation
-- Persistent data using localStorage
-- Dynamic delete functionality
-- Deployed using GitHub Pages
+### 🛒 E-Commerce Application
 
-🔗 **Live Demo:** https://mohammad-aahil.github.io/Expense-Tracker-Js/  
-💻 **Source Code:** https://github.com/Mohammad-Aahil/Expense-Tracker-Js  
+A modern E-Commerce web application built using React, React Router, TanStack Query, and Context API.
 
+#### Features
+- Product listing from external API
+- Dynamic product details page
+- Shopping cart functionality
+- API data fetching and caching
+- Global state management
+- Responsive design
 
-### ✅ To‑Do List Application
-- Task management with add, toggle, and delete features
-- Uses event delegation and state-driven rendering
-- Data persistence with localStorage
+🔗 **Live Demo:** https://mohammad-aahil.github.io/ecommerce-app
 
-🔗 Live Demo: https://mohammad-aahil.github.io/todo-app/  
-💻 Source Code: https://mohammad-aahil.github.io/To-Do-App/
+💻 **Source Code:** https://github.com/Mohammad-Aahil/ecommerce-app
 
 ---
 
-## 🎯 Learning Focus
-- Strengthening JavaScript fundamentals
-- Improving CSS layout and styling
-- Building real-world projects
-- Preparing for frontend developer roles
+### 👥 User Explorer
+
+A React application that fetches and displays user data with search and filtering functionality.
+
+#### Features
+- API integration
+- Real-time search
+- User filtering
+- Loading & error handling
+- Responsive UI
+
+🔗 **Live Demo:** https://mohammad-aahil.github.io/user-explorer
+
+💻 **Source Code:** https://github.com/Mohammad-Aahil/user-explorer
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/Mohammad-Aahil
+### 📊 Dashboard App
+
+A multi-page dashboard application built with React Router demonstrating dynamic routing and navigation.
+
+#### Features
+- Multi-page navigation
+- Dynamic routes
+- URL parameter handling
+- Reusable components
+- Organized routing structure
+
+🔗 **Live Demo:** https://mohammad-aahil.github.io/dashboard-app
+
+💻 **Source Code:** https://github.com/Mohammad-Aahil/dashboard-app
+
+---
+
+### 📝 Notes App
+
+A CRUD-based Notes Application with persistent data storage using LocalStorage.
+
+#### Features
+- Create notes
+- Edit notes
+- Delete notes
+- Update notes
+- Persistent storage with LocalStorage
+
+🔗 **Live Demo:** https://mohammad-aahil.github.io/notes-app
+
+💻 **Source Code:** https://github.com/Mohammad-Aahil/notes-app
+
+---
+
+## 🎯 Current Learning Focus
+
+- Advanced React Patterns
+- Performance Optimization
+- State Management
+- Frontend Architecture
+- Full Stack Web Development
+- Technical Interview Preparation
+
+---
+
+## 📈 Goals
+
+- Build production-quality React applications
+- Contribute to open-source projects
+- Secure a Frontend/React Developer Internship
+- Continuously improve problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: mdaahil86@gmail.com
+
+💻 GitHub: https://github.com/Mohammad-Aahil
+
+📍 Chennai, India
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
